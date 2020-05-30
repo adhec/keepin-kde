@@ -1,0 +1,28 @@
+[Desktop Entry]
+Name=Keepin
+Comment=Dexie dark transparent theme
+
+
+X-KDE-PluginInfo-Author=adhe
+X-KDE-PluginInfo-Email=adhemarks@gmail.com
+X-KDE-PluginInfo-Name=Keepin
+X-KDE-PluginInfo-Version=5.61.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Next
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+#intensity is disabled, in order to auto adjust to the chosen theme color
+#intensity=2.0
+saturation=1.7
